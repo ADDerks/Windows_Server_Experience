@@ -1,0 +1,14 @@
+THE ATTACHED .XLSX FILE IS THE DOCUMENTATION THAT I KEPT DURING A COURSE IN WINDOWS ADMININSTRATION. 
+
+Throughout this course we were assigned a physical server space within the Durham Tech (School) server rooom, and
+instructed on how to set it up. We were given a scenario for a theorhetical company, and told to set these servers up 
+to meet a list of expectations for completion of the class. We were assigned an ipv4 address range, and company name. With this
+information we were expected to complete assignments given throughout the 16 weeks of coursework, and/or follow along with demonstrations 
+through using our own server during class. 
+
+In this, I gained knowledge in and experience many aspects of Server administration and Windows Server 2016. Active Directory, Adding many
+users through Domain services with the use of a batch file, updating (or not updating) and why it could be a bad idea, remote accessing the
+the server, setting up Group Policies and security settings, Setting up Hyper-V guests and many other things.
+
+Everything is documented in the spreadsheet. 
+
